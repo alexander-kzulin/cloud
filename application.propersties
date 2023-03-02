@@ -1,1 +1,6 @@
-ddd
+client.news.aerver.port=8080
+client.users.server.port=8081
+
+
+message.example1=It is default message example
+message.example2= It is second default example of message Example2
